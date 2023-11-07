@@ -1,0 +1,64 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/4UFgIy2hpwcUXH5TTYCe5/_buildManifest.js",
+    "static/4UFgIy2hpwcUXH5TTYCe5/_ssgManifest.js",
+    "static/4UFgIy2hpwcUXH5TTYCe5/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/chunks/pages/index-56b4aa5b6f7ca71d.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/css/6c72f98bb35f1044.css",
+      "static/chunks/pages/_app-4cdc29e81148ca40.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/chunks/pages/_error-d39607a4676a4aa5.js"
+    ],
+    "/pairings": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/chunks/pages/pairings-41ab94c507bf2561.js"
+    ],
+    "/session": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/chunks/pages/session-4dc0362dc037cc6f.js"
+    ],
+    "/sessions": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/chunks/pages/sessions-53ec9ddd7d46c583.js"
+    ],
+    "/settings": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/chunks/pages/settings-e2851d87523f8c47.js"
+    ],
+    "/walletconnect": [
+      "static/chunks/webpack-82fc731553d7271a.js",
+      "static/chunks/framework-79bce4a3a540b080.js",
+      "static/chunks/main-cd5b1589e0ef0924.js",
+      "static/chunks/pages/walletconnect-13836eb25fb21312.js"
+    ]
+  },
+  "ampFirstPages": []
+}

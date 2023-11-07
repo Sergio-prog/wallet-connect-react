@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/": "pages/index.html",
+  "/pairings": "pages/pairings.html",
+  "/session": "pages/session.html",
+  "/sessions": "pages/sessions.html",
+  "/settings": "pages/settings.html",
+  "/walletconnect": "pages/walletconnect.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
