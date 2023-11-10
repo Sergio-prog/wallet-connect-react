@@ -47,6 +47,7 @@
     "react-hot-toast": "^2.4.1",
     "react-qr-reader-es6": "2.2.1-2",
     "solana-wallet": "^1.0.2",
+    "sqlite3": "^5.1.6",
     "tronweb": "^4.4.0",
     "valtio": "1.6.0"
   },

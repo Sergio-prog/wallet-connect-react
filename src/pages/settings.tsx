@@ -62,7 +62,7 @@ export default function SettingsPage() {
 
       <Divider y={2} />
 
-      <Text css={{ color: '$yellow500', marginBottom: '$5', textAlign: 'left', padding: 0 }}>
+      {/* <Text css={{ color: '$yellow500', marginBottom: '$5', textAlign: 'left', padding: 0 }}>
         Warning: mnemonics and secret keys are provided for development purposes only and should not
         be used elsewhere!
       </Text>
@@ -116,7 +116,7 @@ export default function SettingsPage() {
       </Text>
       <Card bordered borderWeight="light" css={{ wordWrap: 'break-word' }}>
         <Text css={{ fontFamily: '$mono' }}>{kadenaWallets[kadenaAddress].getSecretKey()}</Text>
-      </Card>
+      </Card> */}
 
       <Text h4 css={{ marginTop: '$10', marginBottom: '$5' }}></Text>
     </Fragment>
