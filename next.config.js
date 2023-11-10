@@ -1,6 +1,7 @@
 module.exports = {
   images: {
-    loader: 'static',
+    loader: 'akamai',
+    path: '',
   },
   reactStrictMode: true,
   webpack(config) {
