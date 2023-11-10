@@ -1,4 +1,7 @@
 module.exports = {
+  images: {
+    loader: 'custom',
+  },
   reactStrictMode: true,
   webpack(config) {
     config.resolve.fallback = {
