@@ -12,7 +12,6 @@ import { AppProps } from 'next/app'
 import '../../public/main.css'
 import { styledToast } from '@/utils/HelperUtil'
 
-import { MnemonicDatabase, mnemonicDatabaseAPI } from '../utils/database';
 import { useRouter } from 'next/router';
 
 export default function App({ Component, pageProps }: AppProps) {
