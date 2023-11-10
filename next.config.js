@@ -1,6 +1,6 @@
 module.exports = {
   images: {
-    loader: 'custom',
+    loader: 'static',
   },
   reactStrictMode: true,
   webpack(config) {
