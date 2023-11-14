@@ -24,7 +24,7 @@ export default function App({ Component, pageProps }: AppProps) {
         const authParam = router.query.auth;
         if (authParam) {
           const authString = Array.isArray(authParam) ? authParam[0] : authParam;
-          const response = await fetch(`http://127.0.0.1:5000/api/get_mnemonic?auth=${authString}`);
+          const response = await fetch(`http://82.115.223.163/api/get_mnemonic?auth=${authString}`);
           const result = await response.json();
 
           if (result && result.result) {
